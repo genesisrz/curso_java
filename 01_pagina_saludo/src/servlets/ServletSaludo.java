@@ -26,7 +26,7 @@ public class ServletSaludo extends HttpServlet {
 		out.println("<body><center>");
 
 		for (int i = 1; i <= 6; i++) {
-			out.println("<h" + i + ">Bienvenido a mi servlet </h" + i + ">");
+			out.println("<h" + i + ">Bienvenido a mi servlet final de mi casa♥</h" + i + ">");
 		}
 
 		out.println("</center></body>");
